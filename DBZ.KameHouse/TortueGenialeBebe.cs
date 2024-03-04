@@ -2,6 +2,7 @@
 
 namespace DBZ.KameHouse
 {
+
     public class TortueGenialeBebe : IGuerrier
     {
         public string Nom
